@@ -1,0 +1,9 @@
+.menu{
+  font-family: 'segoE UI';
+  font-size: 125px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
