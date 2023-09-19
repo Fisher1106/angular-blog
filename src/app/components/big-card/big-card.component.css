@@ -8,15 +8,15 @@
   align-items: baseline;
   justify-content: flex-start;
 }
-.big-card_title > h1{
+.big-card_title > a > h1{
   margin-top: 10px;
-  font-size: 27px;
+  font-size: 35px;
 }
-.big-card_description > p{
+.big-card_description > a > p{
   margin-top: 10px;
   font-size: 20px;
 }
-.big-card_photo > img
+.big-card_photo > a > img
 {
 width: 100%;
 }
